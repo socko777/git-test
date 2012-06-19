@@ -5,5 +5,6 @@ public class BlahMain {
 		String a = null;
 		//npe in the next line
 		a.substring(0);
+		a = a;
 	}
 }
