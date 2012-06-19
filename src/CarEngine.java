@@ -1,5 +1,6 @@
 public class CarEngine {
 	private Car car;
+	private String name;
 
 	public Car getCar() {
 		return car;
