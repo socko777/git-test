@@ -6,5 +6,6 @@ public class BlahMain {
 		//npe in the next line
 		a.substring(0);
 		a = a;
+		a = "c";
 	}
 }
