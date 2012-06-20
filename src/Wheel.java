@@ -1,6 +1,7 @@
 public class Wheel {
 
 	private Car car;
+	private int year;
 
 	public Car getCar() {
 		return car;
